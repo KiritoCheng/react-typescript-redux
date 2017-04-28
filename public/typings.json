@@ -1,0 +1,16 @@
+{
+  "name": "public",
+  "dependencies": {
+    "history": "registry:npm/history#2.0.0+20160607172317",
+    "react": "registry:dt/react#15.0.0+20170301231408",
+    "react-dom": "registry:dt/react-dom#0.14.0+20170207010524",
+    "react-redux": "registry:dt/react-redux#4.4.0+20170214201550",
+    "react-router": "registry:dt/react-router#3.0.0+20170223151516",
+    "react-router-redux": "registry:dt/react-router-redux#4.0.0+20170215060558",
+    "react-tap-event-plugin": "registry:dt/react-tap-event-plugin#0.0.0+20160726072212"
+  },
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20170213133316",
+    "redux": "registry:dt/redux#3.5.2+20160703092728"
+  }
+}
