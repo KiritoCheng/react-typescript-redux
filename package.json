@@ -1,0 +1,36 @@
+{
+  "name": "react-typescript-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/react": "^16.0.2",
+    "@types/react-dom": "^15.5.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.3.3",
+    "typescript": "^2.1.5",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.3.3",
+    "uglifyjs-webpack-plugin": "^0.4.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://1345036885@qq.com:Zheng19960917@github.com/KiritoCheng/react-typescript-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiritoCheng/react-typescript-redux/issues"
+  },
+  "homepage": "https://github.com/KiritoCheng/react-typescript-redux#readme"
+}
